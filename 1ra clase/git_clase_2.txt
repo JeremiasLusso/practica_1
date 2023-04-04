@@ -7,3 +7,10 @@ git init para inicializar el servicio
 git status dice que modificaciones hubo en el directorio
 git config --list
 git config --gloabl user.email "email"(sin comillas)// user.name "nombre".
+git add
+git commit -m "comentario"
+para salir de ahi usar :q
+nano "nombre archivo completo con punto".
+ctrl o para guardar cambios
+ctrl x para salir
+
