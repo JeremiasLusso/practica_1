@@ -16,3 +16,4 @@ ctrl x para salir
 
 entrar a github y armar un repositorio publico... seguir los pasos desde git bash.
 git pull traer actualizacion desde la nube
+git push subir a la nube
