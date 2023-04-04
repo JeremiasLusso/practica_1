@@ -1,0 +1,9 @@
+pwd mi directoio
+ls ver lo que tiene el directorio
+cd entrar al directorio cd - salir del directorio.
+en azul directorios, en verde accesos directos
+mkdir agregar un directorio
+git init para inicializar el servicio
+git status dice que modificaciones hubo en el directorio
+git config --list
+git config --gloabl user.email "email"(sin comillas)// user.name "nombre".

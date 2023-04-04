@@ -1,0 +1,16 @@
+-git bash here 
+-git gui here
+usar git con los comandos unix (simil linux).
+git version
+git config --global user.name "nombreusuario"
+git config -- user.email
+
+git local y github es en la nube.
+github almacenamiento virtual. dominio y hosting estan en alguna computadora en alguna parte del mundo. Almacenamiento gratis y publico, hay que pagar para que sea privado. GitLab, almacenamiento gratis y privado.
+bitbucket.
+
+crear cuenta en github. 
+C:\Users\jerel\OneDrive\Escritorio\ing\2do\Lab de computacion 2\proyecto_git
+
+crear archivo touch "nombrearchivo"
+lo que se registra: git status. estado del archivo con respecto a hit
