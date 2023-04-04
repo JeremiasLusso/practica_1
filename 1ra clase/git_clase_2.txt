@@ -14,3 +14,5 @@ nano "nombre archivo completo con punto".
 ctrl o para guardar cambios
 ctrl x para salir
 
+entrar a github y armar un repositorio publico... seguir los pasos desde git bash.
+git pull traer actualizacion desde la nube
