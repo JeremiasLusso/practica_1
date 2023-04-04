@@ -15,3 +15,4 @@ C:\Users\jerel\OneDrive\Escritorio\ing\2do\Lab de computacion 2\proyecto_git
 crear archivo touch "nombrearchivo"
 lo que se registra: git status. estado del archivo con respecto a hit
 modificado desde nano 
+modificado desde repositorio en la nube
